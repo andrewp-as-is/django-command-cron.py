@@ -1,1 +1,1 @@
-Django run commands loop
+Django management commands cron

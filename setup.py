@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='django-run-commands',
-    version='2021.6.8',
+    name='django-command-cron',
+    version='2021.7.10',
     packages=[
-        'django_run_commands',
-        'django_run_commands.admin',
-        'django_run_commands.management',
-        'django_run_commands.management.commands',
-        'django_run_commands.migrations',
-        'django_run_commands.models'
+        'django_command_cron',
+        'django_command_cron.admin',
+        'django_command_cron.management',
+        'django_command_cron.management.commands',
+        'django_command_cron.migrations',
+        'django_command_cron.models'
     ]
 )
